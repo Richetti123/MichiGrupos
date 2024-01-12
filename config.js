@@ -13,8 +13,8 @@ import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js"
 global.owner = [
 ["51955095498", 'Richetti', true], //Richetti
 ["51933348947"], 
-["56945086055"], 
-["56945086055"], 
+["56997506392"], 
+["51966254634"], 
 ["56945086055"],
 ["56945086055"],
 ["56945086055"]]
@@ -27,7 +27,7 @@ global.botNumberCode = "" //Ejemplo: +59309090909
 global.confirmCode = ""
 
 global.mods = []
-global.prems = ["56945086055"]
+global.prems = ["56997506392"]
 //key de violetics
 global.Key360 = ["964f-0c75-7afc"]
    
@@ -103,11 +103,11 @@ global.moment = moment
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-["56945086055", 'MichiBot', 1], 
-["56945086055", 'MichiBot', 1],  
-["56945086055", 'MichiBot', 1],
-["56945086055", 'MichiBot', 1],
-["56945086055", 'MichiBot', 1]]
+["56997506392", 'MichiBot', 1], 
+["56997506392", 'MichiBot', 1],  
+["56997506392", 'MichiBot', 1],
+["56997506392", 'MichiBot', 1],
+["56997506392", 'MichiBot', 1]]
 
 global.mail = '' //agrega tú correo
 global.desc = 'MichiBot el mejor bot de whatsapp' //agrega una descripción corta
@@ -129,21 +129,21 @@ global.ig = "https://www.instagram.com/ceogeripium.dzn"
 global.md = "https://www.instagram.com/ceogeripium.dzn"
 global.fb = "https://www.instagram.com/ceogeripium.dzn"
 
-global.nna = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //CANAL UPDATE
-global.nn2 = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //UPDATE
-global.nna2 = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //Help
-global.nn = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //Grupo 3
-global.nnntt = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //Grupo 4
-global.nnnttt = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //Grupo 5
-global.nnnttt1 = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR'; //Grupo 6 COL
-global.nnnttt2 = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //Grupo 7 COL
-global.nnnttt3 = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //Grupo 8 COL
-global.nnnttt4 = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //Grupo 9 COL
-global.nnnttt5 = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //A.T.M.M
-global.paypal = 'https://paypal.me/OficialGD'
-global.asistencia = 'Wa.me/56945086055' //Dudas? escríbeme...
+global.nna = 'https://walink.co/e435aa' //CANAL UPDATE
+global.nn2 = 'https://walink.co/e435aa' //UPDATE
+global.nna2 = 'https://walink.co/e435aa' //Help
+global.nn = 'https://walink.co/e435aa' //Grupo 1
+global.nnn = 'https://walink.co/e435aa' //Grupo 2
+global.nnnt = 'https://walink.co/e435aa' //Grupo 3
+global.nnntt = 'https://walink.co/e435aa' //Grupo 4
+global.nnnttt = 'https://walink.co/e435aa' //Grupo 5
+global.nnnttt1 = 'https://walink.co/e435aa'; //Grupo 6 COL
+global.nnnttt2 = 'https://walink.co/e435aa' //Grupo 7 COL
+global.nnnttt3 = 'https://walink.co/e435aa' //Grupo 8 COL
+global.nnnttt4 = 'https://walink.co/e435aa' //Grupo 9 COL
+global.nnnttt5 = 'https://walink.co/e435aa' //A.T.M.M
+global.paypal = 'https://walink.co/e435aa'
+global.asistencia = 'Wa.me/56997506392' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -183,7 +183,7 @@ global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*"
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*"
 global.waitttt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*"
-global.nomorown = "56945086055"
+global.nomorown = "56997506392"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"];
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
