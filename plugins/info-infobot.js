@@ -93,7 +93,7 @@ let info = `╭━━━━[ ${gt} ]━━━━━⬣
 ┃ღ ${restrict ? '*Activado ✔*' : '*Desactivado ✘*'} 
 ┃
 ╰━━━[ 𝙄𝙣𝙛𝙤𝙧𝙢𝙖𝙘𝙞ó𝙣 | 𝙄𝙣𝙛𝙤𝙧𝙢𝙖𝙩𝙞𝙤𝙣 ]━━⬣`
-await conn.sendFile(m.chat, pp, 'gata.mp4', info, fkontak)
+await conn.sendFile(m.chat, pp, './Menu2.jpg', info, fkontak)
 /*let info = `
 ╭━━━━[ ${gt} ]━━━━━⬣
 ┃
