@@ -5,8 +5,8 @@ const handler = async (m, {isOwner, isAdmin, conn, text, participants, args, com
     throw false;
   }
   const pesan = args.join` `;
-let oi = `*PROHIBIDA SU VENTA* ${pesan}`
-let teks = `*😸𝘎𝘖𝘎𝘖! 𝘈𝘤𝘵𝘪𝘷𝘦𝘯𝘴𝘦𝘦.. 𝘗𝘜𝘛𝘟𝘚!😼*\n\n${oi}\n*🩵@𝖈𝖊𝖔𝖌𝖊𝖗𝖎𝖕𝖎𝖚𝖒𝖉𝖟𝖓*\n`
+let oi = `*SI QUIERES UN BOT PERSONALIZADO ESCRIBEME wa.me/+51964254634* ${pesan}`
+let teks = `*ETIQUETA GENERAL MICHIBOT(PROHIBIDA SU VENTA)*\n\n${oi}\n*🩵@𝖈𝖊𝖔𝖌𝖊𝖗𝖎𝖕𝖎𝖚𝖒𝖉𝖟𝖓*\n`
 for (let mem of participants) {
 teks += `☃️❄️ @${mem.id.split('@')[0]}\n`}
 teks += `MichiBot`
